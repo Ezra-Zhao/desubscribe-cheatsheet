@@ -2,6 +2,9 @@
 
 [![Stars](https://img.shields.io/github/stars/Ezra-Zhao/desubscribe-cheatsheet?style=social)](https://github.com/Ezra-Zhao/desubscribe-cheatsheet/stargazers) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) ![Languages](https://img.shields.io/badge/languages-3-blue)
 
+Support & more: [GitHub Sponsors](https://github.com/sponsors/Ezra-Zhao) · [Gumroad — templates & workbooks I use](https://ezraflow28.gumroad.com) · [Ko-fi](https://ko-fi.com/ezra777zhao)
+
+
 [English](CHEATSHEET.md) · [Español](README.es.md) · [Português](README.pt.md)
 
 > 算一笔账：Notion + Slack + Figma + 网盘 + 密码管理 + 笔记……
