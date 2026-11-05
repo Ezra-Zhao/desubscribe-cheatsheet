@@ -169,3 +169,5 @@ MIT License © 2026 Guangyi Zhao
 - [tmux 命令速查表](https://github.com/Ezra-Zhao/tmux-cheatsheet) — 30 条会话、窗口与窗格命令
 - [systemd 命令速查表](https://github.com/Ezra-Zhao/systemd-cheatsheet) — 30 条服务管理与日志命令
 
+
+📣 Telegram 频道：https://t.me/EzraZhao777（各平台的更新都同步到这里）
